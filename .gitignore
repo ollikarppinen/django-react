@@ -4,3 +4,6 @@ node_modules/
 bundles/
 db.sqlite3
 webpack-stats.json
+venv/
+staticfiles
+.env
